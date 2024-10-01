@@ -30,3 +30,7 @@ Após instalar o Node.js, siga os seguintes passos:
 # Como Executar o Codigo
 
     node CRUD.js
+
+# Video Explicativo Sobre a Funcionalidade do Codigo e da Linguagem
+
+    https://www.youtube.com/watch?v=dA0M2l6ZKa8
